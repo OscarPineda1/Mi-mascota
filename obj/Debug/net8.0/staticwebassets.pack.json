@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Mi mascota.bundle.scp.css"
     },
     {
+      "Id": "d:\\USMP\\CURSOS\\PROGRAMACION 1\\Mi mascota\\wwwroot\\Imagen\\bolivia.jpg",
+      "PackagePath": "staticwebassets\\Imagen\\bolivia.jpg"
+    },
+    {
       "Id": "d:\\USMP\\CURSOS\\PROGRAMACION 1\\Mi mascota\\wwwroot\\Imagen\\peruano.jpg",
       "PackagePath": "staticwebassets\\Imagen\\peruano.jpg"
     },
