@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "chnzUQ6Qjk0tYd7I2oHgcI7SmrcWgjVWl7mX7kM32/w=",
+  "Hash": "QzZRCeWOx8SI9QG5gkfe+Eb2HaDWERkzdhlNeggczTM=",
   "Source": "Mi mascota",
   "BasePath": "_content/Mi mascota",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "d:\\USMP\\CURSOS\\PROGRAMACION 1\\Mi mascota\\wwwroot\\Imagen\\bolivia.jpg",
+      "SourceId": "Mi mascota",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\USMP\\CURSOS\\PROGRAMACION 1\\Mi mascota\\wwwroot\\",
+      "BasePath": "_content/Mi mascota",
+      "RelativePath": "Imagen/bolivia.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagen\\bolivia.jpg"
     },
     {
       "Identity": "d:\\USMP\\CURSOS\\PROGRAMACION 1\\Mi mascota\\wwwroot\\Imagen\\peruano.jpg",
