@@ -1,0 +1,31 @@
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\appsettings.Development.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\appsettings.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.staticwebassets.runtime.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.exe
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.deps.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.runtimeconfig.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.dll
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\bin\Debug\net8.0\Mi mascota.pdb
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.GeneratedMSBuildEditorConfig.editorconfig
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.AssemblyInfoInputs.cache
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.AssemblyInfo.cs
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.csproj.CoreCompileInputs.cache
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.MvcApplicationPartsAssemblyInfo.cache
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.RazorAssemblyInfo.cache
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.RazorAssemblyInfo.cs
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.sourcelink.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets.build.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets.development.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets\msbuild.Mi mascota.Microsoft.AspNetCore.StaticWebAssets.props
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets\msbuild.build.Mi mascota.props
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mi mascota.props
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mi mascota.props
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\staticwebassets.pack.json
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\scopedcss\bundle\Mi mascota.styles.css
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\scopedcss\projectbundle\Mi mascota.bundle.scp.css
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.dll
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\refint\Mi mascota.dll
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.pdb
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\Mi mascota.genruntimeconfig.cache
+d:\USMP\CURSOS\PROGRAMACION 1\Mi mascota\obj\Debug\net8.0\ref\Mi mascota.dll
