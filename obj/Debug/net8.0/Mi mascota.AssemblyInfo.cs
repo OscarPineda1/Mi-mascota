@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mi mascota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694963c36f7a5f979fb4386eb14413028fc0af12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mi mascota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mi mascota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
